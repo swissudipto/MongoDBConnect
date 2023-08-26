@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SLey/TYq8Gaxh0EqipYr1LQGpppG7qtBYiSWmVCmvIY=",
+  "Source": "MongoDBConnect",
+  "BasePath": "_content/MongoDBConnect",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
